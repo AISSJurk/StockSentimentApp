@@ -1,0 +1,20 @@
+{
+  "mood_score": 0.75,
+  "confidence": 0.92,
+  "positive": [
+    { "text": "Tesla is booming!", "score": 0.9, "label": "Positive" },
+    { "text": "Strong TSLA growth", "score": 0.85, "label": "Positive" },
+    { "text": "Investors bullish", "score": 0.88, "label": "Positive" },
+    { "text": "Record profits", "score": 0.87, "label": "Positive" },
+    { "text": "Tesla up 10%", "score": 0.91, "label": "Positive" }
+  ],
+  "negative": [
+    { "text": "Some regulation concerns", "score": -0.4, "label": "Negative" },
+    { "text": "Battery supply issues", "score": -0.35, "label": "Negative" },
+    { "text": "Rival companies growing", "score": -0.3, "label": "Negative" },
+    { "text": "Mixed analyst targets", "score": -0.2, "label": "Negative" },
+    { "text": "Short interest rises", "score": -0.25, "label": "Negative" }
+  ],
+  "neutral_count": 1,
+  "total": 11
+}

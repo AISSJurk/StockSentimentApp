@@ -1,0 +1,702 @@
+{
+  "market_mood": 0.04,
+  "market_confidence": 0.73,
+  "top_positive": {
+    "symbol": "CFG",
+    "mood_score": 0.29,
+    "confidence": 1.0,
+    "messages": [
+      {
+        "text": "CFG soars 100% on record guidance",
+        "score": 0.889,
+        "orig_score": 1.0,
+        "label": "Positive",
+        "intensity": "Strong +",
+        "symbol": "CFG",
+        "author": "Newswire",
+        "timestamp": "2025-06-26T10:36:54.349097"
+      },
+      {
+        "text": "CFG stock falls after management shakeup",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "CFG",
+        "author": "Newswire",
+        "timestamp": "2025-06-25T10:42:44.343969"
+      },
+      {
+        "text": "CFG stock surges after earnings beat",
+        "score": 0.137,
+        "orig_score": 0.4,
+        "label": "Positive",
+        "intensity": "Neutral",
+        "symbol": "CFG",
+        "author": "Insider tip",
+        "timestamp": "2025-06-25T15:40:51.547834"
+      },
+      {
+        "text": "CFG expands to new international markets",
+        "score": 0.094,
+        "orig_score": 0.2,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "CFG",
+        "author": "Newswire",
+        "timestamp": "2025-06-25T12:28:11.508684"
+      },
+      {
+        "text": "CFG shares rally on analyst upgrade",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "CFG",
+        "author": "Insider tip",
+        "timestamp": "2025-06-25T23:56:39.631927"
+      }
+    ]
+  },
+  "top_negative": {
+    "symbol": "EMN",
+    "mood_score": -0.21,
+    "confidence": 0.0,
+    "messages": [
+      {
+        "text": "EMN stock falls after management shakeup",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "EMN",
+        "author": "Analyst",
+        "timestamp": "2025-06-26T20:02:27.564422"
+      },
+      {
+        "text": "EMN files quarterly SEC report",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "EMN",
+        "author": "Analyst",
+        "timestamp": "2025-06-26T03:17:43.894767"
+      },
+      {
+        "text": "EMN unveils corporate sustainability plan",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "EMN",
+        "author": "Analyst",
+        "timestamp": "2025-06-26T11:39:07.268356"
+      },
+      {
+        "text": "EMN crashes 100% amid scandal",
+        "score": -0.908,
+        "orig_score": -1.0,
+        "label": "Negative",
+        "intensity": "Strong -",
+        "symbol": "EMN",
+        "author": "Newswire",
+        "timestamp": "2025-06-26T11:21:43.480069"
+      },
+      {
+        "text": "EMN faces regulatory probe",
+        "score": 0.0,
+        "orig_score": 0,
+        "label": "Neutral",
+        "intensity": "Neutral",
+        "symbol": "EMN",
+        "author": "CEO tweet",
+        "timestamp": "2025-06-25T07:08:24.238776"
+      }
+    ]
+  },
+  "rest_positive": [
+    {
+      "symbol": "AMGN",
+      "mood_score": 0.28,
+      "confidence": 1.0,
+      "headline": "AMGN sees strong buyback announcement",
+      "messages": [
+        {
+          "text": "AMGN sees strong buyback announcement",
+          "score": 0.103,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AMGN",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-25T07:53:11.918448"
+        },
+        {
+          "text": "AMGN expands to new international markets",
+          "score": 0.063,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AMGN",
+          "author": "Analyst",
+          "timestamp": "2025-06-25T05:02:44.749409"
+        },
+        {
+          "text": "AMGN issues profit warning for next quarter",
+          "score": 0.075,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AMGN",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T04:35:08.177518"
+        },
+        {
+          "text": "AMGN posts record quarterly revenue",
+          "score": 0.249,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Weak +",
+          "symbol": "AMGN",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-26T14:33:38.449873"
+        },
+        {
+          "text": "AMGN soars 100% on record guidance",
+          "score": 0.707,
+          "orig_score": 1.0,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "AMGN",
+          "author": "Newswire",
+          "timestamp": "2025-06-26T02:42:22.207734"
+        }
+      ]
+    },
+    {
+      "symbol": "BWA",
+      "mood_score": 0.28,
+      "confidence": 1.0,
+      "headline": "BWA soars 100% on record guidance",
+      "messages": [
+        {
+          "text": "BWA soars 100% on record guidance",
+          "score": 0.431,
+          "orig_score": 1.0,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "BWA",
+          "author": "Insider tip",
+          "timestamp": "2025-06-25T23:35:15.049677"
+        },
+        {
+          "text": "BWA posts record quarterly revenue",
+          "score": 0.079,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "BWA",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-24T22:47:25.330254"
+        },
+        {
+          "text": "BWA stock surges after earnings beat",
+          "score": 0.459,
+          "orig_score": 0.4,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "BWA",
+          "author": "Newswire",
+          "timestamp": "2025-06-26T19:27:18.390684"
+        },
+        {
+          "text": "BWA slides amid revenue miss",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "BWA",
+          "author": "Forum user",
+          "timestamp": "2025-06-25T16:07:16.839752"
+        },
+        {
+          "text": "BWA shares rally on analyst upgrade",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "BWA",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-25T13:25:36.126037"
+        }
+      ]
+    },
+    {
+      "symbol": "LB",
+      "mood_score": 0.27,
+      "confidence": 1.0,
+      "headline": "LB stock surges after earnings beat",
+      "messages": [
+        {
+          "text": "LB stock surges after earnings beat",
+          "score": 0.134,
+          "orig_score": 0.4,
+          "label": "Positive",
+          "intensity": "Neutral",
+          "symbol": "LB",
+          "author": "Forum user",
+          "timestamp": "2025-06-25T19:23:53.748606"
+        },
+        {
+          "text": "LB sees strong buyback announcement",
+          "score": 0.078,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "LB",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T05:53:04.475835"
+        },
+        {
+          "text": "LB issues profit warning for next quarter",
+          "score": 0.078,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "LB",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T06:07:24.511011"
+        },
+        {
+          "text": "LB expands to new international markets",
+          "score": 0.112,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "LB",
+          "author": "Forum user",
+          "timestamp": "2025-06-26T13:09:29.973204"
+        },
+        {
+          "text": "LB soars 100% on record guidance",
+          "score": 0.558,
+          "orig_score": 1.0,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "LB",
+          "author": "Forum user",
+          "timestamp": "2025-06-26T13:10:53.492903"
+        }
+      ]
+    },
+    {
+      "symbol": "JNJ",
+      "mood_score": 0.27,
+      "confidence": 1.0,
+      "headline": "JNJ expands to new international markets",
+      "messages": [
+        {
+          "text": "JNJ expands to new international markets",
+          "score": 0.045,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "JNJ",
+          "author": "Forum user",
+          "timestamp": "2025-06-25T05:33:55.853586"
+        },
+        {
+          "text": "JNJ faces regulatory probe",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "JNJ",
+          "author": "Analyst",
+          "timestamp": "2025-06-25T10:33:48.157100"
+        },
+        {
+          "text": "JNJ slides amid revenue miss",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "JNJ",
+          "author": "Insider tip",
+          "timestamp": "2025-06-26T08:22:40.814188"
+        },
+        {
+          "text": "JNJ soars 100% on record guidance",
+          "score": 1.0,
+          "orig_score": 1.0,
+          "label": "Positive",
+          "intensity": "Strong +",
+          "symbol": "JNJ",
+          "author": "Newswire",
+          "timestamp": "2025-06-26T20:10:14.799080"
+        },
+        {
+          "text": "JNJ issues profit warning for next quarter",
+          "score": 0.091,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "JNJ",
+          "author": "Analyst",
+          "timestamp": "2025-06-25T17:51:12.023951"
+        }
+      ]
+    },
+    {
+      "symbol": "HRL",
+      "mood_score": 0.27,
+      "confidence": 1.0,
+      "headline": "HRL expands to new international markets",
+      "messages": [
+        {
+          "text": "HRL expands to new international markets",
+          "score": 0.072,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "HRL",
+          "author": "Forum user",
+          "timestamp": "2025-06-25T21:47:31.075292"
+        },
+        {
+          "text": "HRL posts record quarterly revenue",
+          "score": 0.13,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "HRL",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T23:50:23.432509"
+        },
+        {
+          "text": "HRL soars 100% on record guidance",
+          "score": 0.494,
+          "orig_score": 1.0,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "HRL",
+          "author": "Insider tip",
+          "timestamp": "2025-06-26T04:18:24.405204"
+        },
+        {
+          "text": "HRL stock falls after management shakeup",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "HRL",
+          "author": "Forum user",
+          "timestamp": "2025-06-26T17:07:54.351206"
+        },
+        {
+          "text": "HRL stock surges after earnings beat",
+          "score": 0.245,
+          "orig_score": 0.4,
+          "label": "Positive",
+          "intensity": "Weak +",
+          "symbol": "HRL",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T21:44:49.911581"
+        }
+      ]
+    }
+  ],
+  "rest_negative": [
+    {
+      "symbol": "CCI",
+      "mood_score": -0.21,
+      "confidence": 0.0,
+      "headline": "CCI unveils corporate sustainability plan",
+      "messages": [
+        {
+          "text": "CCI unveils corporate sustainability plan",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CCI",
+          "author": "Analyst",
+          "timestamp": "2025-06-26T15:24:03.219605"
+        },
+        {
+          "text": "CCI crashes 100% amid scandal",
+          "score": -0.622,
+          "orig_score": -1.0,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "CCI",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-25T14:32:11.185815"
+        },
+        {
+          "text": "CCI shares rally on analyst upgrade",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CCI",
+          "author": "Forum user",
+          "timestamp": "2025-06-26T04:54:20.187772"
+        },
+        {
+          "text": "CCI announces upcoming product roadmap",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CCI",
+          "author": "Insider tip",
+          "timestamp": "2025-06-26T16:04:03.253740"
+        },
+        {
+          "text": "CCI hit with antitrust lawsuit",
+          "score": -0.234,
+          "orig_score": -0.4,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "CCI",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-25T12:27:10.976038"
+        }
+      ]
+    },
+    {
+      "symbol": "AXP",
+      "mood_score": -0.21,
+      "confidence": 0.33,
+      "headline": "AXP crashes 100% amid scandal",
+      "messages": [
+        {
+          "text": "AXP crashes 100% amid scandal",
+          "score": -0.407,
+          "orig_score": -1.0,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "AXP",
+          "author": "Insider tip",
+          "timestamp": "2025-06-25T21:37:25.067229"
+        },
+        {
+          "text": "AXP shares rally on analyst upgrade",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AXP",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T02:40:54.755262"
+        },
+        {
+          "text": "AXP hit with antitrust lawsuit",
+          "score": -0.405,
+          "orig_score": -0.4,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "AXP",
+          "author": "Newswire",
+          "timestamp": "2025-06-26T15:05:15.280274"
+        },
+        {
+          "text": "AXP files quarterly SEC report",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AXP",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T07:25:40.016940"
+        },
+        {
+          "text": "AXP beats expectations with new product sales",
+          "score": 0.191,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "AXP",
+          "author": "Analyst",
+          "timestamp": "2025-06-26T19:29:11.888053"
+        }
+      ]
+    },
+    {
+      "symbol": "CDNS",
+      "mood_score": -0.19,
+      "confidence": 0.33,
+      "headline": "CDNS unveils corporate sustainability plan",
+      "messages": [
+        {
+          "text": "CDNS unveils corporate sustainability plan",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CDNS",
+          "author": "Analyst",
+          "timestamp": "2025-06-25T04:07:56.195064"
+        },
+        {
+          "text": "CDNS announces upcoming product roadmap",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CDNS",
+          "author": "Analyst",
+          "timestamp": "2025-06-25T17:03:21.067045"
+        },
+        {
+          "text": "CDNS crashes 100% amid scandal",
+          "score": -0.684,
+          "orig_score": -1.0,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "CDNS",
+          "author": "Analyst",
+          "timestamp": "2025-06-26T07:52:42.553071"
+        },
+        {
+          "text": "CDNS hit with antitrust lawsuit",
+          "score": -0.201,
+          "orig_score": -0.4,
+          "label": "Negative",
+          "intensity": "Weak -",
+          "symbol": "CDNS",
+          "author": "Insider tip",
+          "timestamp": "2025-06-26T04:59:30.633995"
+        },
+        {
+          "text": "CDNS issues profit warning for next quarter",
+          "score": 0.084,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "CDNS",
+          "author": "Newswire",
+          "timestamp": "2025-06-25T08:34:27.480652"
+        }
+      ]
+    },
+    {
+      "symbol": "KO",
+      "mood_score": -0.16,
+      "confidence": 0.67,
+      "headline": "KO beats expectations with new product sales",
+      "messages": [
+        {
+          "text": "KO beats expectations with new product sales",
+          "score": 0.098,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "KO",
+          "author": "Forum user",
+          "timestamp": "2025-06-26T08:39:36.676673"
+        },
+        {
+          "text": "KO expands to new international markets",
+          "score": 0.163,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "KO",
+          "author": "Newswire",
+          "timestamp": "2025-06-26T07:34:16.985992"
+        },
+        {
+          "text": "KO faces regulatory probe",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "KO",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-25T12:33:26.421322"
+        },
+        {
+          "text": "KO crashes 100% amid scandal",
+          "score": -1.0,
+          "orig_score": -1.0,
+          "label": "Negative",
+          "intensity": "Strong -",
+          "symbol": "KO",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-26T13:47:35.452556"
+        },
+        {
+          "text": "KO unveils corporate sustainability plan",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "KO",
+          "author": "Analyst",
+          "timestamp": "2025-06-26T06:24:35.826500"
+        }
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "mood_score": -0.15,
+      "confidence": 0.67,
+      "headline": "ARE issues profit warning for next quarter",
+      "messages": [
+        {
+          "text": "ARE issues profit warning for next quarter",
+          "score": 0.06,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "ARE",
+          "author": "Insider tip",
+          "timestamp": "2025-06-25T11:17:35.868816"
+        },
+        {
+          "text": "ARE beats expectations with new product sales",
+          "score": 0.055,
+          "orig_score": 0.2,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "ARE",
+          "author": "Insider tip",
+          "timestamp": "2025-06-25T07:52:23.686340"
+        },
+        {
+          "text": "ARE stock falls after management shakeup",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "ARE",
+          "author": "Insider tip",
+          "timestamp": "2025-06-25T05:57:14.093621"
+        },
+        {
+          "text": "ARE crashes 100% amid scandal",
+          "score": -0.832,
+          "orig_score": -1.0,
+          "label": "Negative",
+          "intensity": "Strong -",
+          "symbol": "ARE",
+          "author": "CEO tweet",
+          "timestamp": "2025-06-26T00:36:44.514087"
+        },
+        {
+          "text": "ARE slides amid revenue miss",
+          "score": 0.0,
+          "orig_score": 0,
+          "label": "Neutral",
+          "intensity": "Neutral",
+          "symbol": "ARE",
+          "author": "Analyst",
+          "timestamp": "2025-06-26T03:53:06.600363"
+        }
+      ]
+    }
+  ]
+}

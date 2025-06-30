@@ -1,0 +1,306 @@
+{
+  "market_mood": 0.56,
+  "market_confidence": 0.3690060531674837,
+  "top_positive": {
+    "symbol": "TSLA",
+    "mood_score": 0.48,
+    "confidence": 0.43104860794820693,
+    "messages": [
+      {
+        "text": "Tesla announces record profits for Q2, beating analyst expectations",
+        "score": 0.6,
+        "label": "Positive",
+        "symbol": "TSLA"
+      },
+      {
+        "text": "Tesla stock surges as delivery numbers impress",
+        "score": 0.2,
+        "label": "Neutral",
+        "symbol": "TSLA"
+      },
+      {
+        "text": "Concerns raised over Tesla\u2019s autopilot safety",
+        "score": 0,
+        "label": "Neutral",
+        "symbol": "TSLA"
+      }
+    ]
+  },
+  "top_negative": {
+    "symbol": "INTC",
+    "mood_score": -0.77,
+    "confidence": 0.8380559924939899,
+    "messages": [
+      {
+        "text": "Intel cuts workforce by 10% amid revenue slump",
+        "score": -0.4,
+        "label": "Negative",
+        "symbol": "INTC"
+      },
+      {
+        "text": "Intel unveils breakthrough chip design",
+        "score": 0.2,
+        "label": "Neutral",
+        "symbol": "INTC"
+      }
+    ]
+  },
+  "rest_positive": [
+    {
+      "symbol": "META",
+      "mood_score": 0.2,
+      "confidence": 0.6,
+      "headline": "Meta upgrades forecast after strong ad revenue",
+      "messages": [
+        {
+          "text": "Meta upgrades forecast after strong ad revenue",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "META"
+        },
+        {
+          "text": "Concerns over Meta's user data practices resurface",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "META"
+        },
+        {
+          "text": "Meta launches new VR headset to positive reviews",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "META"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "mood_score": 0.13,
+      "confidence": 0.6,
+      "headline": "Amazon expands operations with new fulfillment centers",
+      "messages": [
+        {
+          "text": "Amazon expands operations with new fulfillment centers",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "AMZN"
+        },
+        {
+          "text": "Amazon faces employee protests over working conditions",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "AMZN"
+        },
+        {
+          "text": "Analysts upgrade Amazon stock after strong Prime Day",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "AMZN"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "mood_score": 0.13,
+      "confidence": 0.6,
+      "headline": "Microsoft partners with OpenAI to launch healthcare AI tools",
+      "messages": [
+        {
+          "text": "Microsoft partners with OpenAI to launch healthcare AI tools",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "MSFT"
+        },
+        {
+          "text": "Windows 11 adoption still sluggish",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "MSFT"
+        },
+        {
+          "text": "Microsoft Cloud revenue hits record highs",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "MSFT"
+        }
+      ]
+    },
+    {
+      "symbol": "NFLX",
+      "mood_score": 0.07,
+      "confidence": 0.6,
+      "headline": "Netflix disappoints with lower subscriber growth",
+      "messages": [
+        {
+          "text": "Netflix disappoints with lower subscriber growth",
+          "score": 0.0,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        },
+        {
+          "text": "Netflix announces new ad-supported tier",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        },
+        {
+          "text": "Positive buzz as Netflix wins multiple Emmys",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "mood_score": 0.07,
+      "confidence": 0.6,
+      "headline": "NVIDIA faces delays in next-gen GPU rollout",
+      "messages": [
+        {
+          "text": "NVIDIA faces delays in next-gen GPU rollout",
+          "score": -0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        },
+        {
+          "text": "NVIDIA stock jumps after strong gaming demand",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        },
+        {
+          "text": "AI chip sales power NVIDIA growth",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        }
+      ]
+    }
+  ],
+  "rest_negative": [
+    {
+      "symbol": "AAPL",
+      "mood_score": -0.07,
+      "confidence": 0.6,
+      "headline": "Apple hit with antitrust lawsuit in EU",
+      "messages": [
+        {
+          "text": "Apple hit with antitrust lawsuit in EU",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "AAPL"
+        },
+        {
+          "text": "iPhone 15 sales stronger than expected",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "AAPL"
+        },
+        {
+          "text": "Apple delays new MacBook launch",
+          "score": 0.0,
+          "label": "Neutral",
+          "symbol": "AAPL"
+        }
+      ]
+    },
+    {
+      "symbol": "F",
+      "mood_score": 0.0,
+      "confidence": 0.4,
+      "headline": "Ford recalls 300,000 vehicles over safety concerns",
+      "messages": [
+        {
+          "text": "Ford recalls 300,000 vehicles over safety concerns",
+          "score": -0.2,
+          "label": "Neutral",
+          "symbol": "F"
+        },
+        {
+          "text": "Ford reports record EV preorders",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "F"
+        }
+      ]
+    },
+    {
+      "symbol": "NFLX",
+      "mood_score": 0.07,
+      "confidence": 0.6,
+      "headline": "Netflix disappoints with lower subscriber growth",
+      "messages": [
+        {
+          "text": "Netflix disappoints with lower subscriber growth",
+          "score": 0.0,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        },
+        {
+          "text": "Netflix announces new ad-supported tier",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        },
+        {
+          "text": "Positive buzz as Netflix wins multiple Emmys",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NFLX"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "mood_score": 0.07,
+      "confidence": 0.6,
+      "headline": "NVIDIA faces delays in next-gen GPU rollout",
+      "messages": [
+        {
+          "text": "NVIDIA faces delays in next-gen GPU rollout",
+          "score": -0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        },
+        {
+          "text": "NVIDIA stock jumps after strong gaming demand",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        },
+        {
+          "text": "AI chip sales power NVIDIA growth",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "NVDA"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "mood_score": 0.07,
+      "confidence": 0.6,
+      "headline": "Google announces major investment in quantum computing",
+      "messages": [
+        {
+          "text": "Google announces major investment in quantum computing",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "GOOGL"
+        },
+        {
+          "text": "Google fined for data collection violations",
+          "score": -0.2,
+          "label": "Neutral",
+          "symbol": "GOOGL"
+        },
+        {
+          "text": "Strong ad revenue boosts Alphabet earnings",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "GOOGL"
+        }
+      ]
+    }
+  ]
+}

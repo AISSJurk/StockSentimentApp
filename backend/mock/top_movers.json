@@ -1,0 +1,522 @@
+{
+  "market_mood": 0.06,
+  "market_confidence": 0.71,
+  "top_positive": {
+    "symbol": "CE",
+    "mood_score": 0.49,
+    "confidence": 1.0,
+    "messages": [
+      {
+        "text": "CE issues profit warning for next quarter",
+        "score": 0.2,
+        "label": "Neutral",
+        "symbol": "CE",
+        "author": "Forum user"
+      },
+      {
+        "text": "CE soars 100% on record guidance",
+        "score": 1.0,
+        "label": "Positive",
+        "symbol": "CE",
+        "author": "Forum user"
+      },
+      {
+        "text": "CE stock surges after earnings beat",
+        "score": 0.4,
+        "label": "Positive",
+        "symbol": "CE",
+        "author": "Forum user"
+      },
+      {
+        "text": "CE sees strong buyback announcement",
+        "score": 0.2,
+        "label": "Neutral",
+        "symbol": "CE",
+        "author": "Newswire"
+      },
+      {
+        "text": "CE expands to new international markets",
+        "score": 0.2,
+        "label": "Neutral",
+        "symbol": "CE",
+        "author": "Newswire"
+      }
+    ]
+  },
+  "top_negative": {
+    "symbol": "LHX",
+    "mood_score": -0.37,
+    "confidence": 0.0,
+    "messages": [
+      {
+        "text": "LHX hit with antitrust lawsuit",
+        "score": -0.4,
+        "label": "Negative",
+        "symbol": "LHX",
+        "author": "CEO tweet"
+      },
+      {
+        "text": "LHX CEO to speak at industry conference",
+        "score": 0,
+        "label": "Neutral",
+        "symbol": "LHX",
+        "author": "Analyst"
+      },
+      {
+        "text": "LHX announces upcoming product roadmap",
+        "score": 0,
+        "label": "Neutral",
+        "symbol": "LHX",
+        "author": "Insider tip"
+      },
+      {
+        "text": "LHX crashes 100% amid scandal",
+        "score": -1.0,
+        "label": "Negative",
+        "symbol": "LHX",
+        "author": "Insider tip"
+      },
+      {
+        "text": "LHX faces regulatory probe",
+        "score": 0,
+        "label": "Neutral",
+        "symbol": "LHX",
+        "author": "CEO tweet"
+      }
+    ]
+  },
+  "rest_positive": [
+    {
+      "symbol": "KEYS",
+      "mood_score": 0.45,
+      "confidence": 1.0,
+      "headline": "KEYS stock surges after earnings beat",
+      "messages": [
+        {
+          "text": "KEYS stock surges after earnings beat",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "KEYS",
+          "author": "Analyst"
+        },
+        {
+          "text": "KEYS soars 100% on record guidance",
+          "score": 1.0,
+          "label": "Positive",
+          "symbol": "KEYS",
+          "author": "Insider tip"
+        },
+        {
+          "text": "KEYS issues profit warning for next quarter",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "KEYS",
+          "author": "Newswire"
+        },
+        {
+          "text": "KEYS expands to new international markets",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "KEYS",
+          "author": "Forum user"
+        },
+        {
+          "text": "KEYS unveils corporate sustainability plan",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "KEYS",
+          "author": "Newswire"
+        }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "mood_score": 0.43,
+      "confidence": 1.0,
+      "headline": "JPM issues profit warning for next quarter",
+      "messages": [
+        {
+          "text": "JPM issues profit warning for next quarter",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "JPM",
+          "author": "Forum user"
+        },
+        {
+          "text": "JPM posts record quarterly revenue",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "JPM",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "JPM stock surges after earnings beat",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "JPM",
+          "author": "Analyst"
+        },
+        {
+          "text": "JPM slides amid revenue miss",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "JPM",
+          "author": "Newswire"
+        },
+        {
+          "text": "JPM soars 100% on record guidance",
+          "score": 1.0,
+          "label": "Positive",
+          "symbol": "JPM",
+          "author": "Analyst"
+        }
+      ]
+    },
+    {
+      "symbol": "HCA",
+      "mood_score": 0.43,
+      "confidence": 1.0,
+      "headline": "HCA soars 100% on record guidance",
+      "messages": [
+        {
+          "text": "HCA soars 100% on record guidance",
+          "score": 1.0,
+          "label": "Positive",
+          "symbol": "HCA",
+          "author": "Newswire"
+        },
+        {
+          "text": "HCA sees strong buyback announcement",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "HCA",
+          "author": "Newswire"
+        },
+        {
+          "text": "HCA stock surges after earnings beat",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "HCA",
+          "author": "Insider tip"
+        },
+        {
+          "text": "HCA beats expectations with new product sales",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "HCA",
+          "author": "Newswire"
+        },
+        {
+          "text": "HCA announces upcoming product roadmap",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "HCA",
+          "author": "CEO tweet"
+        }
+      ]
+    },
+    {
+      "symbol": "EBAY",
+      "mood_score": 0.42,
+      "confidence": 1.0,
+      "headline": "EBAY stock falls after management shakeup",
+      "messages": [
+        {
+          "text": "EBAY stock falls after management shakeup",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "EBAY",
+          "author": "Insider tip"
+        },
+        {
+          "text": "EBAY posts record quarterly revenue",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "EBAY",
+          "author": "Newswire"
+        },
+        {
+          "text": "EBAY announces upcoming product roadmap",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "EBAY",
+          "author": "Forum user"
+        },
+        {
+          "text": "EBAY stock surges after earnings beat",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "EBAY",
+          "author": "Analyst"
+        },
+        {
+          "text": "EBAY soars 100% on record guidance",
+          "score": 1.0,
+          "label": "Positive",
+          "symbol": "EBAY",
+          "author": "Insider tip"
+        }
+      ]
+    },
+    {
+      "symbol": "ANSS",
+      "mood_score": 0.42,
+      "confidence": 1.0,
+      "headline": "ANSS soars 100% on record guidance",
+      "messages": [
+        {
+          "text": "ANSS soars 100% on record guidance",
+          "score": 1.0,
+          "label": "Positive",
+          "symbol": "ANSS",
+          "author": "Forum user"
+        },
+        {
+          "text": "ANSS stock falls after management shakeup",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "ANSS",
+          "author": "Forum user"
+        },
+        {
+          "text": "ANSS posts record quarterly revenue",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "ANSS",
+          "author": "Newswire"
+        },
+        {
+          "text": "ANSS sees strong buyback announcement",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "ANSS",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "ANSS expands to new international markets",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "ANSS",
+          "author": "Analyst"
+        }
+      ]
+    }
+  ],
+  "rest_negative": [
+    {
+      "symbol": "CTSH",
+      "mood_score": -0.34,
+      "confidence": 0.33,
+      "headline": "CTSH expands to new international markets",
+      "messages": [
+        {
+          "text": "CTSH expands to new international markets",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "CTSH",
+          "author": "Insider tip"
+        },
+        {
+          "text": "CTSH hit with antitrust lawsuit",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "CTSH",
+          "author": "Newswire"
+        },
+        {
+          "text": "CTSH faces regulatory probe",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "CTSH",
+          "author": "Insider tip"
+        },
+        {
+          "text": "CTSH stock falls after management shakeup",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "CTSH",
+          "author": "Analyst"
+        },
+        {
+          "text": "CTSH crashes 100% amid scandal",
+          "score": -1.0,
+          "label": "Negative",
+          "symbol": "CTSH",
+          "author": "Analyst"
+        }
+      ]
+    },
+    {
+      "symbol": "AVY",
+      "mood_score": -0.31,
+      "confidence": 0.33,
+      "headline": "AVY files quarterly SEC report",
+      "messages": [
+        {
+          "text": "AVY files quarterly SEC report",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "AVY",
+          "author": "Newswire"
+        },
+        {
+          "text": "AVY hit with antitrust lawsuit",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "AVY",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "AVY CEO to speak at industry conference",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "AVY",
+          "author": "Insider tip"
+        },
+        {
+          "text": "AVY beats expectations with new product sales",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "AVY",
+          "author": "Newswire"
+        },
+        {
+          "text": "AVY crashes 100% amid scandal",
+          "score": -1.0,
+          "label": "Negative",
+          "symbol": "AVY",
+          "author": "Newswire"
+        }
+      ]
+    },
+    {
+      "symbol": "GD",
+      "mood_score": -0.3,
+      "confidence": 0.33,
+      "headline": "GD stock surges after earnings beat",
+      "messages": [
+        {
+          "text": "GD stock surges after earnings beat",
+          "score": 0.4,
+          "label": "Positive",
+          "symbol": "GD",
+          "author": "Forum user"
+        },
+        {
+          "text": "GD crashes 100% amid scandal",
+          "score": -1.0,
+          "label": "Negative",
+          "symbol": "GD",
+          "author": "Forum user"
+        },
+        {
+          "text": "GD hit with antitrust lawsuit",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "GD",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "GD faces regulatory probe",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "GD",
+          "author": "Newswire"
+        },
+        {
+          "text": "GD CEO to speak at industry conference",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "GD",
+          "author": "Newswire"
+        }
+      ]
+    },
+    {
+      "symbol": "BWA",
+      "mood_score": -0.3,
+      "confidence": 0.0,
+      "headline": "BWA slides amid revenue miss",
+      "messages": [
+        {
+          "text": "BWA slides amid revenue miss",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "BWA",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "BWA hit with antitrust lawsuit",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "BWA",
+          "author": "CEO tweet"
+        },
+        {
+          "text": "BWA announces upcoming product roadmap",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "BWA",
+          "author": "Analyst"
+        },
+        {
+          "text": "BWA crashes 100% amid scandal",
+          "score": -1.0,
+          "label": "Negative",
+          "symbol": "BWA",
+          "author": "Insider tip"
+        },
+        {
+          "text": "BWA files quarterly SEC report",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "BWA",
+          "author": "Newswire"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "mood_score": -0.3,
+      "confidence": 0.33,
+      "headline": "CVX crashes 100% amid scandal",
+      "messages": [
+        {
+          "text": "CVX crashes 100% amid scandal",
+          "score": -1.0,
+          "label": "Negative",
+          "symbol": "CVX",
+          "author": "Analyst"
+        },
+        {
+          "text": "CVX CEO to speak at industry conference",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "CVX",
+          "author": "Newswire"
+        },
+        {
+          "text": "CVX sees strong buyback announcement",
+          "score": 0.2,
+          "label": "Neutral",
+          "symbol": "CVX",
+          "author": "Forum user"
+        },
+        {
+          "text": "CVX files quarterly SEC report",
+          "score": 0,
+          "label": "Neutral",
+          "symbol": "CVX",
+          "author": "Analyst"
+        },
+        {
+          "text": "CVX hit with antitrust lawsuit",
+          "score": -0.4,
+          "label": "Negative",
+          "symbol": "CVX",
+          "author": "Insider tip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "mood_score": 0.0,
+    "confidence": 0.67,
+    "positive": [
+        {
+            "text": "TSLA dropped again today",
+            "score": -0.6,
+            "label": "Negative"
+        },
+        {
+            "text": "Tesla looking neutral today",
+            "score": 0.0,
+            "label": "Neutral"
+        },
+        {
+            "text": "Tesla to the moon!",
+            "score": 0.8,
+            "label": "Positive"
+        }
+    ],
+    "negative": [
+        {
+            "text": "TSLA dropped again today",
+            "score": -0.6,
+            "label": "Negative"
+        },
+        {
+            "text": "Tesla looking neutral today",
+            "score": 0.0,
+            "label": "Neutral"
+        },
+        {
+            "text": "Tesla to the moon!",
+            "score": 0.8,
+            "label": "Positive"
+        }
+    ],
+    "neutral_count": 1,
+    "total": 3
+}

@@ -1,0 +1,591 @@
+[
+  {
+    "date": "2025-05-29",
+    "market_mood": -0.94,
+    "market_confidence": 0.76,
+    "symbols": {
+      "CE": 0.31,
+      "LHX": -0.8,
+      "KEYS": 0.36,
+      "JPM": 0.76,
+      "HCA": -0.74,
+      "EBAY": 0.15,
+      "ANSS": 0.82,
+      "CTSH": 0.56,
+      "AVY": -0.45,
+      "GD": 0.99,
+      "BWA": -0.5,
+      "CVX": 0.52
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "market_mood": -0.98,
+    "market_confidence": 0.49,
+    "symbols": {
+      "CE": -0.52,
+      "LHX": 0.49,
+      "KEYS": -0.01,
+      "JPM": -0.57,
+      "HCA": 0.3,
+      "EBAY": 0.95,
+      "ANSS": -0.73,
+      "CTSH": -0.49,
+      "AVY": 0.4,
+      "GD": -0.77,
+      "BWA": 0.99,
+      "CVX": 0.36
+    }
+  },
+  {
+    "date": "2025-05-31",
+    "market_mood": 0.01,
+    "market_confidence": 0.86,
+    "symbols": {
+      "CE": 0.28,
+      "LHX": 0.79,
+      "KEYS": 0.16,
+      "JPM": -0.61,
+      "HCA": -0.43,
+      "EBAY": -0.28,
+      "ANSS": 0.83,
+      "CTSH": -0.96,
+      "AVY": 0.86,
+      "GD": 0.22,
+      "BWA": 0.21,
+      "CVX": 0.46
+    }
+  },
+  {
+    "date": "2025-06-01",
+    "market_mood": -0.82,
+    "market_confidence": 0.81,
+    "symbols": {
+      "CE": 0.56,
+      "LHX": -0.6,
+      "KEYS": -0.17,
+      "JPM": -0.36,
+      "HCA": 0.81,
+      "EBAY": -0.12,
+      "ANSS": 0.32,
+      "CTSH": -0.29,
+      "AVY": 0.72,
+      "GD": -0.62,
+      "BWA": -0.29,
+      "CVX": 0.2
+    }
+  },
+  {
+    "date": "2025-06-02",
+    "market_mood": -0.93,
+    "market_confidence": 0.76,
+    "symbols": {
+      "CE": -0.87,
+      "LHX": -0.24,
+      "KEYS": -0.65,
+      "JPM": 0.35,
+      "HCA": 0.7,
+      "EBAY": 0.36,
+      "ANSS": 0.73,
+      "CTSH": 0.79,
+      "AVY": -0.98,
+      "GD": -0.66,
+      "BWA": -0.69,
+      "CVX": 0.85
+    }
+  },
+  {
+    "date": "2025-06-03",
+    "market_mood": 0.89,
+    "market_confidence": 0.64,
+    "symbols": {
+      "CE": 0.93,
+      "LHX": 0.6,
+      "KEYS": -0.96,
+      "JPM": 0.98,
+      "HCA": 0.21,
+      "EBAY": 0.88,
+      "ANSS": -0.3,
+      "CTSH": 0.45,
+      "AVY": -0.99,
+      "GD": 0.15,
+      "BWA": -0.58,
+      "CVX": 0.45
+    }
+  },
+  {
+    "date": "2025-06-04",
+    "market_mood": 0.86,
+    "market_confidence": 0.79,
+    "symbols": {
+      "CE": 0.34,
+      "LHX": -0.63,
+      "KEYS": 0.48,
+      "JPM": 0.6,
+      "HCA": 0.46,
+      "EBAY": 0.88,
+      "ANSS": 0.28,
+      "CTSH": 0.34,
+      "AVY": 0.29,
+      "GD": 0.44,
+      "BWA": -0.72,
+      "CVX": -0.61
+    }
+  },
+  {
+    "date": "2025-06-05",
+    "market_mood": 0.73,
+    "market_confidence": 0.73,
+    "symbols": {
+      "CE": -0.86,
+      "LHX": -0.07,
+      "KEYS": 0.96,
+      "JPM": 0.78,
+      "HCA": 0.47,
+      "EBAY": 0.89,
+      "ANSS": 0.17,
+      "CTSH": 0.62,
+      "AVY": 0.08,
+      "GD": 0.48,
+      "BWA": 0.25,
+      "CVX": -0.26
+    }
+  },
+  {
+    "date": "2025-06-06",
+    "market_mood": -0.25,
+    "market_confidence": 0.44,
+    "symbols": {
+      "CE": 0.94,
+      "LHX": 0.93,
+      "KEYS": -0.4,
+      "JPM": -0.18,
+      "HCA": -0.53,
+      "EBAY": -0.74,
+      "ANSS": 0.32,
+      "CTSH": 0.73,
+      "AVY": 0.18,
+      "GD": 0.99,
+      "BWA": 0.72,
+      "CVX": 0.83
+    }
+  },
+  {
+    "date": "2025-06-07",
+    "market_mood": 0.95,
+    "market_confidence": 0.58,
+    "symbols": {
+      "CE": -0.85,
+      "LHX": 0.26,
+      "KEYS": 0.06,
+      "JPM": -0.82,
+      "HCA": 0.52,
+      "EBAY": 0.88,
+      "ANSS": 0.58,
+      "CTSH": 0.85,
+      "AVY": 0.61,
+      "GD": 0.54,
+      "BWA": 0.56,
+      "CVX": 0.44
+    }
+  },
+  {
+    "date": "2025-06-08",
+    "market_mood": -0.35,
+    "market_confidence": 0.38,
+    "symbols": {
+      "CE": -0.65,
+      "LHX": -0.12,
+      "KEYS": 0.37,
+      "JPM": -0.47,
+      "HCA": -0.27,
+      "EBAY": 0.5,
+      "ANSS": -0.94,
+      "CTSH": -0.85,
+      "AVY": 0.29,
+      "GD": 0.77,
+      "BWA": -0.28,
+      "CVX": -0.55
+    }
+  },
+  {
+    "date": "2025-06-09",
+    "market_mood": -0.04,
+    "market_confidence": 0.63,
+    "symbols": {
+      "CE": 0.61,
+      "LHX": -0.8,
+      "KEYS": -0.79,
+      "JPM": -0.32,
+      "HCA": -0.69,
+      "EBAY": 0.39,
+      "ANSS": -0.07,
+      "CTSH": -0.69,
+      "AVY": 0.66,
+      "GD": -0.01,
+      "BWA": -0.06,
+      "CVX": 0.3
+    }
+  },
+  {
+    "date": "2025-06-10",
+    "market_mood": 0.25,
+    "market_confidence": 0.69,
+    "symbols": {
+      "CE": -0.63,
+      "LHX": 0.33,
+      "KEYS": 0.29,
+      "JPM": 0.37,
+      "HCA": 0.28,
+      "EBAY": -0.14,
+      "ANSS": -0.51,
+      "CTSH": 0.75,
+      "AVY": 0.83,
+      "GD": -0.27,
+      "BWA": 0.13,
+      "CVX": -0.15
+    }
+  },
+  {
+    "date": "2025-06-11",
+    "market_mood": -0.17,
+    "market_confidence": 0.36,
+    "symbols": {
+      "CE": -0.11,
+      "LHX": 0.35,
+      "KEYS": 0.54,
+      "JPM": 0.44,
+      "HCA": -0.13,
+      "EBAY": -0.08,
+      "ANSS": 0.87,
+      "CTSH": 0.29,
+      "AVY": 0.01,
+      "GD": -0.45,
+      "BWA": -0.01,
+      "CVX": 0.16
+    }
+  },
+  {
+    "date": "2025-06-12",
+    "market_mood": -0.01,
+    "market_confidence": 0.31,
+    "symbols": {
+      "CE": 0.82,
+      "LHX": -0.0,
+      "KEYS": -0.65,
+      "JPM": -0.51,
+      "HCA": 0.95,
+      "EBAY": 0.29,
+      "ANSS": -0.11,
+      "CTSH": 0.72,
+      "AVY": -0.7,
+      "GD": 0.63,
+      "BWA": 0.28,
+      "CVX": 0.67
+    }
+  },
+  {
+    "date": "2025-06-13",
+    "market_mood": -0.83,
+    "market_confidence": 0.79,
+    "symbols": {
+      "CE": 0.95,
+      "LHX": 0.49,
+      "KEYS": -0.34,
+      "JPM": -0.72,
+      "HCA": 0.97,
+      "EBAY": 0.44,
+      "ANSS": -0.46,
+      "CTSH": 0.21,
+      "AVY": 0.91,
+      "GD": -0.07,
+      "BWA": -0.27,
+      "CVX": 0.38
+    }
+  },
+  {
+    "date": "2025-06-14",
+    "market_mood": -0.54,
+    "market_confidence": 0.37,
+    "symbols": {
+      "CE": -0.65,
+      "LHX": -0.06,
+      "KEYS": -0.57,
+      "JPM": 0.65,
+      "HCA": -1.0,
+      "EBAY": 0.18,
+      "ANSS": 0.96,
+      "CTSH": -0.92,
+      "AVY": -0.99,
+      "GD": 0.42,
+      "BWA": -0.15,
+      "CVX": -0.72
+    }
+  },
+  {
+    "date": "2025-06-15",
+    "market_mood": 0.51,
+    "market_confidence": 0.79,
+    "symbols": {
+      "CE": 0.73,
+      "LHX": -0.84,
+      "KEYS": -0.7,
+      "JPM": -0.61,
+      "HCA": 0.64,
+      "EBAY": -0.55,
+      "ANSS": 0.15,
+      "CTSH": 0.22,
+      "AVY": -0.9,
+      "GD": 0.91,
+      "BWA": 0.5,
+      "CVX": -0.63
+    }
+  },
+  {
+    "date": "2025-06-16",
+    "market_mood": 0.35,
+    "market_confidence": 0.9,
+    "symbols": {
+      "CE": 0.48,
+      "LHX": -0.36,
+      "KEYS": -0.34,
+      "JPM": -0.47,
+      "HCA": 0.5,
+      "EBAY": 0.4,
+      "ANSS": 0.71,
+      "CTSH": 0.01,
+      "AVY": -0.98,
+      "GD": 0.5,
+      "BWA": -0.5,
+      "CVX": 0.42
+    }
+  },
+  {
+    "date": "2025-06-17",
+    "market_mood": -0.87,
+    "market_confidence": 0.41,
+    "symbols": {
+      "CE": 0.15,
+      "LHX": 0.27,
+      "KEYS": -0.47,
+      "JPM": -0.42,
+      "HCA": -0.65,
+      "EBAY": 0.65,
+      "ANSS": -0.76,
+      "CTSH": -0.2,
+      "AVY": -0.35,
+      "GD": -0.09,
+      "BWA": -0.2,
+      "CVX": -0.57
+    }
+  },
+  {
+    "date": "2025-06-18",
+    "market_mood": 0.85,
+    "market_confidence": 0.6,
+    "symbols": {
+      "CE": -0.87,
+      "LHX": 0.82,
+      "KEYS": -0.75,
+      "JPM": 0.54,
+      "HCA": 0.03,
+      "EBAY": -0.93,
+      "ANSS": 0.86,
+      "CTSH": -0.47,
+      "AVY": 0.04,
+      "GD": 0.19,
+      "BWA": -0.48,
+      "CVX": -0.35
+    }
+  },
+  {
+    "date": "2025-06-19",
+    "market_mood": 0.9,
+    "market_confidence": 0.66,
+    "symbols": {
+      "CE": 0.77,
+      "LHX": 0.56,
+      "KEYS": 0.38,
+      "JPM": 0.31,
+      "HCA": 0.94,
+      "EBAY": -0.06,
+      "ANSS": -0.54,
+      "CTSH": 0.41,
+      "AVY": 0.53,
+      "GD": 0.12,
+      "BWA": 0.62,
+      "CVX": -0.71
+    }
+  },
+  {
+    "date": "2025-06-20",
+    "market_mood": 0.52,
+    "market_confidence": 0.36,
+    "symbols": {
+      "CE": 0.82,
+      "LHX": -0.95,
+      "KEYS": -0.93,
+      "JPM": 0.82,
+      "HCA": 0.52,
+      "EBAY": -0.17,
+      "ANSS": -0.5,
+      "CTSH": 0.89,
+      "AVY": -0.35,
+      "GD": -0.45,
+      "BWA": -0.85,
+      "CVX": 0.73
+    }
+  },
+  {
+    "date": "2025-06-21",
+    "market_mood": -0.87,
+    "market_confidence": 0.35,
+    "symbols": {
+      "CE": -0.36,
+      "LHX": -0.39,
+      "KEYS": 0.27,
+      "JPM": -0.47,
+      "HCA": -0.29,
+      "EBAY": 0.05,
+      "ANSS": -0.74,
+      "CTSH": 0.27,
+      "AVY": -0.29,
+      "GD": 0.88,
+      "BWA": -0.32,
+      "CVX": -0.04
+    }
+  },
+  {
+    "date": "2025-06-22",
+    "market_mood": -0.77,
+    "market_confidence": 0.58,
+    "symbols": {
+      "CE": -0.48,
+      "LHX": -0.54,
+      "KEYS": -0.88,
+      "JPM": 0.94,
+      "HCA": 0.47,
+      "EBAY": -0.77,
+      "ANSS": 0.85,
+      "CTSH": -0.88,
+      "AVY": -0.78,
+      "GD": -0.46,
+      "BWA": 0.31,
+      "CVX": 0.84
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "market_mood": -0.38,
+    "market_confidence": 0.54,
+    "symbols": {
+      "CE": -0.5,
+      "LHX": -0.18,
+      "KEYS": -0.3,
+      "JPM": 0.24,
+      "HCA": 0.66,
+      "EBAY": -0.7,
+      "ANSS": -0.34,
+      "CTSH": 0.58,
+      "AVY": 0.36,
+      "GD": 0.94,
+      "BWA": -0.73,
+      "CVX": -0.41
+    }
+  },
+  {
+    "date": "2025-06-24",
+    "market_mood": 0.91,
+    "market_confidence": 0.37,
+    "symbols": {
+      "CE": -0.41,
+      "LHX": -0.84,
+      "KEYS": 0.31,
+      "JPM": -0.94,
+      "HCA": -0.18,
+      "EBAY": -0.89,
+      "ANSS": 0.02,
+      "CTSH": 0.51,
+      "AVY": -0.86,
+      "GD": -0.0,
+      "BWA": 0.26,
+      "CVX": -0.11
+    }
+  },
+  {
+    "date": "2025-06-25",
+    "market_mood": -0.07,
+    "market_confidence": 0.37,
+    "symbols": {
+      "CE": 0.98,
+      "LHX": -0.39,
+      "KEYS": 0.4,
+      "JPM": -0.74,
+      "HCA": -0.9,
+      "EBAY": 0.83,
+      "ANSS": -0.47,
+      "CTSH": 0.59,
+      "AVY": -0.68,
+      "GD": 0.96,
+      "BWA": -0.53,
+      "CVX": 0.32
+    }
+  },
+  {
+    "date": "2025-06-26",
+    "market_mood": -0.75,
+    "market_confidence": 0.35,
+    "symbols": {
+      "CE": 0.61,
+      "LHX": 0.99,
+      "KEYS": 0.45,
+      "JPM": 0.9,
+      "HCA": -0.61,
+      "EBAY": 0.36,
+      "ANSS": -0.83,
+      "CTSH": 0.15,
+      "AVY": -0.86,
+      "GD": 0.56,
+      "BWA": -0.44,
+      "CVX": 0.3
+    }
+  },
+  {
+    "date": "2025-06-27",
+    "market_mood": -0.89,
+    "market_confidence": 0.85,
+    "symbols": {
+      "CE": -0.99,
+      "LHX": -0.08,
+      "KEYS": 0.37,
+      "JPM": 0.62,
+      "HCA": 0.3,
+      "EBAY": -0.63,
+      "ANSS": 0.83,
+      "CTSH": 0.73,
+      "AVY": -0.91,
+      "GD": 0.26,
+      "BWA": 0.39,
+      "CVX": 0.42
+    }
+  },
+  {
+    "date": "2025-06-27",
+    "market_mood": 0.06,
+    "market_confidence": 0.71,
+    "symbols": {
+      "CE": 0.49,
+      "LHX": -0.37,
+      "KEYS": 0.45,
+      "JPM": 0.43,
+      "HCA": 0.43,
+      "EBAY": 0.42,
+      "ANSS": 0.42,
+      "CTSH": -0.34,
+      "AVY": -0.31,
+      "GD": -0.3,
+      "BWA": -0.3,
+      "CVX": -0.3
+    }
+  }
+]

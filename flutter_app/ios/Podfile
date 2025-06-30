@@ -1,0 +1,35 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '12.0'
+
+# CocoaPods analytics sends network stats synchronously affecting flutter build latency.
+ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+
+project 'Runner', 'Debug' => :debug, 'Profile' => :release, 'Release' => :release
+
+# Locate your Flutter SDK
+def flutter_root
+  root = ENV['FLUTTER_ROOT']
+  raise "Please set FLUTTER_ROOT to your Flutter SDK path" if root.to_s.empty?
+  root
+end
+
+# Load Flutter’s Pod helper, which defines the install methods
+require File.join(flutter_root, 'packages', 'flutter_tools', 'bin', 'podhelper')
+
+# Apply a few Flutter‐specific build settings
+flutter_ios_podfile_setup
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  # This line pulls in BOTH the engine and every plugin pod
+  flutter_install_all_ios_pods(File.dirname(File.realpath(__FILE__)))
+end
+
+post_install do |installer|
+  # This sets up any extra iOS build settings needed by Flutter plugins
+  installer.pods_project.targets.each do |target|
+    flutter_additional_ios_build_settings(target)
+  end
+end
